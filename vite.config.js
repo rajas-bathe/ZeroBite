@@ -10,5 +10,5 @@ export default defineConfig({
   // so all asset paths need to be prefixed with "/<repo-name>/".
   // Replace "zerobite" below with your EXACT GitHub repository name
   // (case-sensitive) before deploying.
-  base: '/zerobite/',
+  base: '/ZeroBite/',
 })
