@@ -5,7 +5,7 @@ A lightweight web application designed to connect food donors with recipients in
 ## 🌐 Live Demo
 
 Deployed automatically via GitHub Actions → GitHub Pages.
-👉 **https://YOUR_USERNAME.github.io/zerobite/**
+👉 **https://rajas-bathe.github.io/zerobite/**
 *(replace `YOUR_USERNAME` with your GitHub username after deploying — see setup instructions below)*
 
 ## 🎯 Project Overview
